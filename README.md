@@ -169,8 +169,6 @@
 <a href="https://alvarochann.github.io"><img src="https://img.shields.io/badge/Blog-0D1117?style=for-the-badge&logo=astro&logoColor=BC52EE" alt="Blog" /></a>
 <a href="https://github.com/Alvarochann"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="" />
 
 </div>
